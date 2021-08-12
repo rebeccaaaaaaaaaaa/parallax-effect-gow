@@ -6,7 +6,7 @@ Projeto criado para fins de estudo
 
 # Deploy
 
-* [Deploy do projeto]()
+* [Deploy do projeto](https://aquigaroto-kratos.netlify.app/)
 
 ### Utilizei para a criação do projetinho
 
